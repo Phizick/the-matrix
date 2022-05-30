@@ -2,8 +2,8 @@
 const state = {
     fps: 18,
     color: "#0f0",
-    // charset: "0123 45片789AB下行 汉字为片假 名的字源CDEFajfhcbカナnsp lfjem ckd.xncg slカタ 仮名",
-    charset: "П Ы Л Ь Б Л Я",
+    charset: "0123 45片789AB下行 汉字为片假 名的字源CDEF a66012jfhcbカナnsp lfjem 9889ckd.xncg slカタ 仮21名",
+    
 };
 
 
